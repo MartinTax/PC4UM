@@ -41,6 +41,8 @@ h2{
 .flex-items:hover{
 	padding-left: 16px;
 	padding-right: 16px;
+	margin-left: 52px;
+	margin-right: 52px;
 	background: #0075f2;
 }
 .keyboard-flex-container{
